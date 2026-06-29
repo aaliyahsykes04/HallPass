@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Hallpass/Hallpass.vcxproj" Id="948e9534-10dd-4ac7-a36f-4e105a69344a" />
+</Solution>
